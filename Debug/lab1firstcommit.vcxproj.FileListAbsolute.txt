@@ -1,0 +1,2 @@
+C:\Users\Vladyslav\source\repos\lab1firstcommit\Debug\lab1firstcommit.exe
+C:\Users\Vladyslav\source\repos\lab1firstcommit\Debug\lab1firstcommit.pdb
